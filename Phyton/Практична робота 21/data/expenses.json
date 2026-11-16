@@ -1,0 +1,10 @@
+[
+  {"date": "2026-09-01", "category": "transport", "amount": 250.00, "comment": "monthly pass"},
+  {"date": "2026-09-03", "category": "food", "amount": 85.50, "comment": "lunch"},
+  {"date": "2026-09-05", "category": "education", "amount": 320.00, "comment": "textbook"},
+  {"date": "2026-09-08", "category": "mobile", "amount": 150.00, "comment": "phone plan"},
+  {"date": "2026-09-12", "category": "food", "amount": 120.00, "comment": "groceries"},
+  {"date": "2026-09-15", "category": "entertainment", "amount": 180.00, "comment": "cinema"},
+  {"date": "2026-09-19", "category": "health", "amount": 95.00, "comment": "pharmacy"},
+  {"date": "2026-09-22", "category": "food", "amount": 62.30, "comment": "dinner"}
+]
